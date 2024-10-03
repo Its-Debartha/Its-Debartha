@@ -1,5 +1,5 @@
 <h1 align="center">Yoi 👋, I'm Debartha !</h1>
-<h3 align="center"> A Data Analyst by profession.</h3>
+<h3 align="center"> A professional Financial Analyst</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Its-Debartha&label=Profile%20views&color=0e75b6&style=flat" alt="Its-Debartha" /> 
@@ -8,7 +8,7 @@
 ## 💬 About Me :-
 - 👨‍💻 Data Analysis and Visualization (Python, Tableau, Excel),
 - 🧩 Game Development (Python, UNITY),
-- 📜 Content Writing and Graphic Design.
+- 📜 Content Writing and Data entry.
 
 <br>
 
