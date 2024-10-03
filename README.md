@@ -42,13 +42,10 @@
   <a href="www.linkedin.com/in/debartha-das">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
   
-  <a href="https://discord.gg/Ka4NfQ8atq">
+  <a href="https://discordapp.com/users/dr_paradox01">
     <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
-    
-  <a href="https://www.hackerrank.com/profile/debkalpa135">
-    <img alt="Hackerrank" title="Hackerrank" height="48" width="48" src="https://cdn.simpleicons.org/hackerrank"></a>
 
-  <a href="dasdebkalpa@gmail.com">
+  <a href="debartha.slg@gmail.com">
     <img alt="Email" title="Email" height="48" width="48" src="https://cdn.simpleicons.org/gmail"></a>
     
   <a href="https://x.com/its_tricky__">
