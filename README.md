@@ -27,13 +27,10 @@
 - 🔎 Explore new technology.
 
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="345" alt="Its-Debartha" />
-
-<br><br>
-
-![Its-Debartha's Stats](https://github-readme-stats.vercel.app/api?username=Its-Debartha&theme=radical&show_icons=true&hide_border=false&border_color=ffffff&count_private=true)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Its-Debartha&theme=radical&card_width=490&border=EBE9E6&stroke=EB5454&ring=D2034E&fire=D2034E&currStreakNum=FFD700&sideNums=D2034E&currStreakLabel=FFD700&sideLabels=FFD700&dates=96E0DC" alt="GitHub Streak" /></a>
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
 
 <br>
 
