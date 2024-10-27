@@ -30,7 +30,7 @@
 
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats :-
 ![Debartha's github stats](https://github-readme-stats.vercel.app/api?username=Its-Debartha&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="345" alt="Tricky135" />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Its-Debartha&theme=dark)](https://git.io/streak-stats)
 
 <br>
