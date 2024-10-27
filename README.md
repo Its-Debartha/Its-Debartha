@@ -39,7 +39,7 @@
 
 <h2 align="center"> SOCIALS</h2>
 <p align="center">
-  <a href="">
+  <a href="www.linkedin.com/in/debartha-das">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
   
   <a href="https://discordapp.com/users/dr_paradox01">
