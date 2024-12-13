@@ -1,50 +1,33 @@
-<h1 align="center">Yoi 👋, I'm Debartha !</h1>
-<h3 align="center"> A professional Financial Analyst</h3>
+# 💫 About Me:
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Its-Debartha&label=Profile%20views&color=0e75b6&style=flat" alt="Its-Debartha" /> 
-</p>
+| 🔭 I’m currently working on Business Analytics & Finance<br>👯 I’m looking to collaborate on Financial_Risk_Analysis<br>🌱 I’m learning matplotlib, plotly, pandas and numpy<br>💬 Ask me about statistics<br>⚡ Fun fact - Compound interest can double your money in 7 years! | ![Bull Bear](https://i.ibb.co/Bw9T3Pz/bullBear.gif) |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 
-## 💬 About Me :-
-- 👨‍💻 Data Analysis and Visualization (Python, Tableau, Excel),
-- 🧩 Game Development (Python, UNITY),
-- 📜 Content Writing and Data entry.
 
-<br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/debartha-das)
 
-## 🎯 My Skills :-
-- 📄 Python
-- 📊 Tableau
-- 📈 Microsoft Excel
-- 🗂️ Database Management
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
 
-<br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Its-Debartha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Its-Debartha&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Debartha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 📅 My Hobbies :-
-- 🎵 Listen to Music,
-- 🎮 Read vooks and novels,
-- 🎥 Research newsletters and articles,
-- 🔎 Explore new technology.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Its-Debartha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats :-
-![Debartha's github stats](https://github-readme-stats.vercel.app/api?username=Its-Debartha&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="345" alt="Tricky135" />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Its-Debartha&theme=dark)](https://git.io/streak-stats)
+---
+[![](https://visitcount.itsvg.in/api?id=Its-Debartha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br>
-
-<h2 align="center"> SOCIALS</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/debartha-das/">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
-  
-  <a href="https://discordapp.com/users/dr_paradox01">
-    <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
-
-  <a href="debartha.slg@gmail.com">
-    <img alt="Email" title="Email" height="48" width="48" src="https://cdn.simpleicons.org/gmail"></a>
-    
-  <a href="https://x.com/its_tricky__">
-      <img alt="X" title="X" height="48" width="48" src="https://cdn.simpleicons.org/x"></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
